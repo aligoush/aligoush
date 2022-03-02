@@ -28,7 +28,7 @@ I'm constantly learning to improve my skills and aptitudes, so I would like to w
 - 👯 I’m looking to collaborate on projects and participate on hackathons that help people :people_holding_hands: / the environment :earth_africa:
 - 🤔 I’m looking for help with job search
 - 😄 Pronouns: she/her
-- :computer: My dream job would be working remotly as a Full-stack in a creative and innovative environment.
+- :computer: My dream job would be working remotely as a Full-stack in a creative and innovative environment.
 <!--- 📫 How to reach me: [@AltynGoush](https://twitter.com/AltynGoush) -->
 
 
