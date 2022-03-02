@@ -52,8 +52,8 @@ I'm constantly learning to improve my skills and aptitudes, so I would like to w
 
 
 <div align="center">
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
+ ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational)
 
 \
 <img src="https://badges.pufler.dev/visits/aligoush/aligoush" 
