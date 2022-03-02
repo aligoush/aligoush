@@ -1,8 +1,9 @@
 # <div align="center">*Hello, World! I'm*</div>
 
 <body>
+ <div align="center">
 <img src="title.svg" alt="css-in-readme">
-
+</div>
 ---
 <br>
 <p align="center">
