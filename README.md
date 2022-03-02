@@ -1,4 +1,4 @@
-# <div align="center">*Hello, World! I'm*</div>
+# <div align="center">*Hello, World! I'm*</div>  
 
 <body>
  <div align="center">
@@ -60,8 +60,6 @@ I'm constantly learning to improve my skills and aptitudes, so I would like to w
  
 </div>
 
-\
- 
 <div align="center">
 <img src="https://badges.pufler.dev/visits/aligoush/aligoush" 
 alt="Visits Counter" />
