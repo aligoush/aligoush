@@ -24,7 +24,7 @@ I'm constantly learning to improve my skills and aptitudes, so I would like to w
 
 
 - 🔭 I’m currently working on my personal projects
-- 🌱 I’m currently learning in FrontEndMasters: Professional and Full-Stack paths; as well, Open Source
+- 🌱 I’m currently learning with Lemoncode's Frontend Master; as well, Java Course with Epam University Program
 - 👯 I’m looking to collaborate on projects and participate on hackathons that help people :people_holding_hands: / the environment :earth_africa:
 - 🤔 I’m looking for help with job search
 - 😄 Pronouns: she/her
