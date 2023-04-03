@@ -54,7 +54,7 @@ I'm constantly learning to improve my skills and aptitudes, so I would like to w
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VScode-0078d7?style=for-the-flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /></a>&nbsp;
 
 
-<div align="center">
+<!--<div align="center">
  
  ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational&theme=dark&animation=grow_out_in)
  
@@ -64,4 +64,5 @@ I'm constantly learning to improve my skills and aptitudes, so I would like to w
 <img src="https://badges.pufler.dev/visits/aligoush/aligoush" 
 alt="Visits Counter" />
 </div>
+-->
 </body>
