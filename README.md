@@ -1,4 +1,4 @@
-# <div align="center"><b>*Hello, World! I'm*</b></div>  
+# <div align="center">*Hello, World! I'm*</div>  
 
 <body>
  <div align="center">
