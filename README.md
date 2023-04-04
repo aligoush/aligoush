@@ -48,11 +48,11 @@ I'm constantly learning to improve my skills and aptitudes, so I would like to w
 <a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-flat&logo=css3&logoColor=white" alt="CSS3" /></a>&nbsp;
 <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-flat&logo=sass&logoColor=white" alt="SASS" /></a>&nbsp;
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-flat&logo=mysql&logoColor=white" alt="MySQL" /></a>&nbsp;
-<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-100000?style=for-the-flat&logo=mongodb&logoColor=green" alt="MongoDB" /></a>&nbsp;
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-273746?style=for-the-flat&logo=mongodb&logoColor=green" alt="MongoDB" /></a>&nbsp;
 <a href="https://slack.com/"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-flat&logo=slack&logoColor=white" alt="Slack" /></a>&nbsp;
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-flat&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-flat&logo=github&logoColor=white" alt="Github" /></a>&nbsp;
-<a href="https://gitlab.com/"><img src="https://img.shields.io/badge/GitLab-100000?style=for-the-flat&logo=gitlab&logoColor=orange" alt="GitLab" /></a>&nbsp;
+<a href="https://gitlab.com/"><img src="https://img.shields.io/badge/GitLab-white?style=for-the-flat&logo=gitlab&logoColor=orange" alt="GitLab" /></a>&nbsp;
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VScode-0078d7?style=for-the-flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /></a>&nbsp;
 
 
