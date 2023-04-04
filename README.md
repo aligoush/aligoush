@@ -51,7 +51,7 @@ I'm constantly learning to improve my skills and aptitudes, so I would like to w
 <a href="https://slack.com/"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-flat&logo=slack&logoColor=white" alt="Slack" /></a>&nbsp;
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-flat&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-flat&logo=github&logoColor=white" alt="Github" /></a>&nbsp;
-<a href="https://gitlab.com/"><img src="https://img.shields.io/badge/)badge/GitLab-100000?style=for-the-flat&logo=github&logoColor=white" alt="GitLab" /></a>&nbsp;
+<a href="https://gitlab.com/"><img src="https://img.shields.io/badge/GitLab-100000?style=for-the-flat&logo=github&logoColor=white" alt="GitLab" /></a>&nbsp;
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VScode-0078d7?style=for-the-flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /></a>&nbsp;
 
 
