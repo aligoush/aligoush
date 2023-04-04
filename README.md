@@ -40,7 +40,7 @@ I'm constantly learning to improve my skills and aptitudes, so I would like to w
 \
 <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-flat&logo=javascript&logoColor=black" alt="Javascript" /></a>&nbsp;
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-flat&logo=typescript&logoColor=white" alt="Typescript" /></a>&nbsp;
-<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-flat&logo=javac&logoColor=white" alt="Java" /></a>&nbsp;
+<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-flat&logo=java&logoColor=white" alt="Java" /></a>&nbsp;
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-flat&logo=node.js&logoColor=white" alt="NodeJS" /></a>&nbsp;
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-flat&logo=react&logoColor=61DAFB" alt="React" /></a>&nbsp;
 <a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-flat&logo=angular&logoColor=white" alt="Angular" /></a>&nbsp;
