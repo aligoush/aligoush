@@ -39,18 +39,19 @@ I'm constantly learning to improve my skills and aptitudes, so I would like to w
 ## <div align="center">*Technologies and tools*</div>
 \
 <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-flat&logo=javascript&logoColor=black" alt="Javascript" /></a>&nbsp;
-<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-flat&logo=react&logoColor=61DAFB" alt="React" /></a>&nbsp;
-<a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-flat&logo=angular&logoColor=white" alt="Angular" /></a>&nbsp;
-<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-flat&logo=node.js&logoColor=white" alt="NodeJS" /></a>&nbsp;
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-flat&logo=typescript&logoColor=white" alt="Typescript" /></a>&nbsp;
 <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-flat&logo=java&logoColor=white" alt="Java" /></a>&nbsp;
+<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-flat&logo=node.js&logoColor=white" alt="NodeJS" /></a>&nbsp;
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-flat&logo=react&logoColor=61DAFB" alt="React" /></a>&nbsp;
+<a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-flat&logo=angular&logoColor=white" alt="Angular" /></a>&nbsp;
 <a href="https://dev.w3.org/html5/html-author/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-flat&logo=html5&logoColor=white" alt="HTML5" /></a>&nbsp;
 <a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-flat&logo=css3&logoColor=white" alt="CSS3" /></a>&nbsp;
 <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-flat&logo=sass&logoColor=white" alt="SASS" /></a>&nbsp;
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-flat&logo=mysql&logoColor=white" alt="MySQL" /></a>&nbsp;
 <a href="https://slack.com/"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-flat&logo=slack&logoColor=white" alt="Slack" /></a>&nbsp;
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-flat&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-flat&logo=github&logoColor=white" alt="Github" /></a>&nbsp;
+<a href="https://github.com/"><img src="[https://img.shields.io/](https://img.shields.io/badge/)badge/GitHub-100000?style=for-the-flat&logo=github&logoColor=white" alt="Github" /></a>&nbsp;
+<a href="https://gitlab.com/"><img src="[https://img.shields.io/](https://img.shields.io/badge/)badge/GitLab-100000?style=for-the-flat&logo=github&logoColor=white" alt="GitLab" /></a>&nbsp;
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VScode-0078d7?style=for-the-flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /></a>&nbsp;
 
 
