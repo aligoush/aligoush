@@ -1,9 +1,10 @@
-# <div align="center">*Hello there! I'm*</div>  
+# <div align="center">*Hello there!*</div>  
 
 <body>
- <div align="center">
+ <!--<div align="center">
 <img src="title.svg" alt="css-in-readme">
-</div>
+</div> 
+-->
  
 ---
  
