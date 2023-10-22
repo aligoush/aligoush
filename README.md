@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ali-goush/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://aligoush.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-hotpink?style=flat&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://twitter.com/AltynGoush"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<!---<a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;  -->
 </p>
 
 
@@ -24,12 +24,12 @@ I'm constantly learning to improve my skills and aptitudes, so I would like to w
 
 
 - 🔭 I’m currently working on my personal projects
-- 🌱 I’m currently learning with Lemoncode's Frontend Master; as well, Java Course with Epam University Program
-- 👯 I’m looking to collaborate on projects and participate on hackathons that help people :people_holding_hands: / the environment :earth_africa:
+- 🌱 I’m currently learning with Lemoncode's Frontend Master; as well, a Java Course with Epam University Program
+- 👯 I’m looking to collaborate on projects and participate in hackathons that help people :people_holding_hands: / the environment :earth_africa:
 - 🤔 I’m looking for help with job search
 - 😄 Pronouns: she/her
-- :computer: My dream job would be working remotely as a Full-stack developer in a creative and innovative environment.
-<!--- 📫 How to reach me: [@AltynGoush](https://twitter.com/AltynGoush) -->
+- :computer: My dream job would be working as a Full-stack or Front-end developer in a creative and innovative environment.
+<!--- 📫 How to reach me:  -->
 
 
 ---
